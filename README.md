@@ -1,6 +1,6 @@
-# Purrfect-To-Do
+# Cat-a-Log
 
-Purrfect-To-Do is not just a to-do application—it's your purr-sonal assistant for task management, now with a delightful surprise! Along with efficient task tracking, customizable themes, and visual insights, we’ve added an easter egg that’s sure to make you smile: a spinning cat inspired by the viral video [Spinning Cat](https://www.youtube.com/watch?v=C43p8h99Cs0&ab_channel=DNKA).
+Cat-a-Log is not just a to-do application—it's your purr-sonal assistant for task management, now with a delightful surprise! Along with efficient task tracking, customizable themes, and visual insights, we’ve added an easter egg that’s sure to make you smile: a spinning cat inspired by the viral video [Spinning Cat](https://www.youtube.com/watch?v=C43p8h99Cs0&ab_channel=DNKA).
 
 ## Features
 
@@ -23,11 +23,11 @@ Purrfect-To-Do is not just a to-do application—it's your purr-sonal assistant 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Ayushjhawar8/Purrfect-To-Do
+git clone https://github.com/Ayushjhawar8/Cat-a-Log
 ```
 2. Install the dependencies:
   ```bash
-  cd Purrfect-to-do && npm install
+  cd Cat-a-Log && npm install
   ```
 3. Start the application:
   ```bash
